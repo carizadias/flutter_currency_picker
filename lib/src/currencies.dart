@@ -27,6 +27,20 @@ List<Map<String, dynamic>> currencies = [
     "symbol_on_left": false,
   },
   {
+  "code": "CVE",
+  "name": "Cabo Verdean Escudo",
+  "symbol": "Esc",
+  "flag": "CVE",
+  "decimal_digits": 2,
+  "number": 132,
+  "name_plural": "Cabo Verdean escudos",
+  "thousands_separator": ".",
+  "decimal_separator": ",",
+  "space_between_amount_and_symbol": true,
+  "symbol_on_left": false
+  },
+
+  {
     "code": "JPY",
     "name": "Japanese Yen",
     "symbol": "¥",
