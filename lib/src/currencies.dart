@@ -29,7 +29,7 @@ List<Map<String, dynamic>> currencies = [
   {
   "code": "CVE",
   "name": "Cabo Verdean Escudo",
-  "symbol": "Esc",
+  "symbol": "\$00",
   "flag": "CVE",
   "decimal_digits": 2,
   "number": 132,
